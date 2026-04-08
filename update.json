@@ -1,6 +1,6 @@
 {
   "version": "v1.7.0",
   "notes": "UI改善・ログ強化・安定性向上",
-  "download_url": "https://あなたの配布URL/VRC_Misa_Translator_v1_7_0.zip",
+  "download_url": "https://github.com/Magicalshooter/vrc-misa-translator-update/releases/download/v1.7.0/VRC_Misa_Translator.zip",
   "auto_apply": true
 }
