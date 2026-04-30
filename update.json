@@ -1,6 +1,6 @@
 {
-  "version": "v1.7.7",
-  "notes": "GPU計算実装・安定性向上",
-  "download_url": "https://github.com/Magicalshooter/vrc-misa-translator-update/releases/download/v1.7.7/VRC_Misa_Translator_v1_7_7.zip",
+  "version": "v1.11.1",
+  "notes": "Blacklist improvements, one-click add, ChatGPT mode labeling update, multilingual tooltips, UI stability improvements\n\nブラックリスト機能の強化、ワンクリック追加、ChatGPTモード表記の改善、多言語ツールチップ対応、UI安定性の向上",
+  "download_url": "https://github.com/Magicalshooter/vrc-misa-translator-update/releases/download/v1.11.1/VRC_Misa_Translator_v1_11_1_Update.zip",
   "auto_apply": true
 }
